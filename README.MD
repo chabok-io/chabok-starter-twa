@@ -2,7 +2,7 @@
   <img src="https://github.com/chabok-io/chabok-assets/blob/master/sdk-logo/twa.png">
 </p>
 
-# Chabok Push Sample for TWA
+# Chabok Push Sample for Trusted Web Activity (TWA)
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. clone the project via git command or download the source code
