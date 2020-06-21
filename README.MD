@@ -3,7 +3,23 @@
 </p>
 
 # Chabok Push Sample for TWA
-Blow some breath to your app with Chabok realtime messaging and receive push notifications cross any platform with zero code. Know your users's better, push them content based on their location or track their presence/location withoud headache.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+1. clone the project via git command or download the source code
+
+```bash
+git clone https://github.com/chabok-io/chabok-starter-twa.git
+```
+
+2. open project in your idea and sync it, then build the app to your device or emulator. 
+
+3. You can login with [Test environment](https://sandbox.push.adpdigital.com/login) to see the starter app info in the panel. 
+Please use the following account:
+
+> **Username** : `starter` 
+>
+> **Password** : `starter`
+
 
 ## Getting started with TWA
 
