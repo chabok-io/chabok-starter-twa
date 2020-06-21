@@ -1,0 +1,25 @@
+{
+  "packageId": "io.chabok.webpush.twa",
+  "host": "webpush.chabok.io",
+  "name": "چابک پوش",
+  "launcherName": "وب پوش",
+  "themeColor": "#4DBA87",
+  "navigationColor": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/index.html",
+  "iconUrl": "https://webpush.chabok.io/images/android-chrome-512x512.png",
+  "maskableIconUrl": "https://webpush.chabok.io/images/android-chrome-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "alias": "android",
+    "path": "./android.keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://webpush.chabok.io/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}
